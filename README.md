@@ -15,7 +15,7 @@ Este repositório contém implementações de algoritmos básicos em JavaScript.
   - Mostra Matriz
   - Mostra a matriz em Z 
 
-- **Vetores:**
+- **Vetor:**
   - Mostra elementos do vetor
 
 ---
